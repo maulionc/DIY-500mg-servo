@@ -1,13 +1,11 @@
 # DIY-500mg-servo
 500mg servo for micro rc model
 
-![image](https://user-images.githubusercontent.com/89079859/152161802-1aa1f0c0-fab4-48b5-bb16-03e7c73a0f11.png width="200" height="400")
-![image](https://user-images.githubusercontent.com/89079859/152161979-31888126-6917-4d16-af3b-453313ec9731.png)
-![image](https://user-images.githubusercontent.com/89079859/152162040-724eb967-de27-4da8-be3b-f3f600c5c816.png)
-![image](https://user-images.githubusercontent.com/89079859/152162102-fd310f43-40ca-4f02-ac1a-36c68ac80686.png)
-
-
-![image](https://user-images.githubusercontent.com/89079859/152110818-6a085f0e-41cf-460b-99db-3cca11ab3b2c.png)
+<img src="https://user-images.githubusercontent.com/89079859/152161802-1aa1f0c0-fab4-48b5-bb16-03e7c73a0f11.png" width="20%" height="20%">
+<img src="https://user-images.githubusercontent.com/89079859/152161979-31888126-6917-4d16-af3b-453313ec9731.png" width="20%" height="20%">
+<img src="https://user-images.githubusercontent.com/89079859/152162040-724eb967-de27-4da8-be3b-f3f600c5c816.png" width="20%" height="20%">
+<img src="https://user-images.githubusercontent.com/89079859/152162102-fd310f43-40ca-4f02-ac1a-36c68ac80686.png" width="20%" height="20%">
+<img src="https://user-images.githubusercontent.com/89079859/152110818-6a085f0e-41cf-460b-99db-3cca11ab3b2c.png" width="20%" height="20%">
 
 Electronic board
 
