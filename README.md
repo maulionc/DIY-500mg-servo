@@ -15,6 +15,9 @@ Electronic board
 1 cap 
 ![image](https://user-images.githubusercontent.com/89079859/152124439-74c066f0-c4e9-49b6-afa9-aa392909717a.png)
 
+To program Attiny1616 with one wire UDPI, you need to made UDPI programmer : (use arduino 3.3V)
+https://create.arduino.cc/projecthub/john-bradnam/create-your-own-updi-programmer-1e55f1
+
 
 
 
